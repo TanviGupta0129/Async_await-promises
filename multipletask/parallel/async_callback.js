@@ -29,7 +29,7 @@ console.log("now i can print something");
 
 
 
-//************************Alag method*****************************
+//************************2nd method*****************************
 console.time("task1");
 fs.readFile("../../f1.txt",function(err,data){
   console.log(data.byteLength);
